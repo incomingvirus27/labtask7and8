@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.exe
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\bin\Debug\netcoreapp3.1\ShapeTest.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.dll
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.pdb
+C:\Users\emma\Documents\Visual Studio 2019\CodebitsCohortAcademy\section8\ShapeTest\ShapeTest\obj\Debug\netcoreapp3.1\ShapeTest.genruntimeconfig.cache
