@@ -38,7 +38,7 @@ namespace ShapeTest
 
         public override string ToString()
         {
-            return $"Area of the shape is {Area(x, y)}";
+            return $"is {Area(x, y)}";
         }
     }
 }
